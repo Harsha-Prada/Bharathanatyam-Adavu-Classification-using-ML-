@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual env
+venv/
+.env
+
+# Models
+*.h5
+*.pt
+*.pth
+
+# Data / videos
+*.mp4
+*.avi
+*.mov
+output/
+
+# Pickle (optional — depends if needed)
+*.pkl
+*.npy
+
+# OS
+.DS_Store
